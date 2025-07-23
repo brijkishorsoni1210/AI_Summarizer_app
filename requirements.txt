@@ -2,5 +2,5 @@ streamlit
 requests
 python-dotenv
 PyPDF2
-googletrans
+googletrans==4.0.0-rc1
 
